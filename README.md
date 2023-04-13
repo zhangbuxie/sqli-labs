@@ -1,2 +1,2 @@
-# sqli-labs
-sqli-labs靶场
+# web靶场
+web靶场
